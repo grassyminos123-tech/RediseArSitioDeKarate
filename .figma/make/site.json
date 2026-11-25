@@ -1,0 +1,10 @@
+{
+  "description": "A striking karate tournament platform for managing committee and kata contestants across six tables, tracking winners, and generating completed results PDFs.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
